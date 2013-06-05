@@ -1,0 +1,15 @@
+<?xml version="1.0"?> 
+<info>
+	<id>calendar_ics</id>
+	<name>Calendar .ics</name>
+	<licence>AGPL</licence>
+	<version>0.1</version>
+	<author>Pete</author>
+	<require>5</require>
+	<description>List of ics feed links Subscription only, for outlook / google calendar</description>
+	<public>
+		<calendar_ics>
+			feed.php
+		</calendar_ics>
+	</public>
+</info>
